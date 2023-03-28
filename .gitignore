@@ -47,7 +47,7 @@ ExportedObj/
 *.opendb
 *.VC.db
 *.bin
-*.log
+
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -68,7 +68,7 @@ crashlytics-build.properties
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
-
+/POPPLE_PT2/Library
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
